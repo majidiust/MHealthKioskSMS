@@ -1,0 +1,6 @@
+c:\users\hiva\documents\visual studio 2010\Projects\MHealthKioskService\SMSJobHandler\bin\Debug\SMSJobHandler.exe.config
+c:\users\hiva\documents\visual studio 2010\Projects\MHealthKioskService\SMSJobHandler\bin\Debug\SMSJobHandler.exe
+c:\users\hiva\documents\visual studio 2010\Projects\MHealthKioskService\SMSJobHandler\bin\Debug\SMSJobHandler.pdb
+c:\users\hiva\documents\visual studio 2010\Projects\MHealthKioskService\SMSJobHandler\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\hiva\documents\visual studio 2010\Projects\MHealthKioskService\SMSJobHandler\obj\x86\Debug\SMSJobHandler.exe
+c:\users\hiva\documents\visual studio 2010\Projects\MHealthKioskService\SMSJobHandler\obj\x86\Debug\SMSJobHandler.pdb
